@@ -1,0 +1,14 @@
+C:\xampp\htdocs\Proyectos\vs.net\actN1\bin\Debug\net8.0\actN1.exe
+C:\xampp\htdocs\Proyectos\vs.net\actN1\bin\Debug\net8.0\actN1.deps.json
+C:\xampp\htdocs\Proyectos\vs.net\actN1\bin\Debug\net8.0\actN1.runtimeconfig.json
+C:\xampp\htdocs\Proyectos\vs.net\actN1\bin\Debug\net8.0\actN1.dll
+C:\xampp\htdocs\Proyectos\vs.net\actN1\bin\Debug\net8.0\actN1.pdb
+C:\xampp\htdocs\Proyectos\vs.net\actN1\obj\Debug\net8.0\actN1.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Proyectos\vs.net\actN1\obj\Debug\net8.0\actN1.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Proyectos\vs.net\actN1\obj\Debug\net8.0\actN1.AssemblyInfo.vb
+C:\xampp\htdocs\Proyectos\vs.net\actN1\obj\Debug\net8.0\actN1.vbproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Proyectos\vs.net\actN1\obj\Debug\net8.0\actN1.dll
+C:\xampp\htdocs\Proyectos\vs.net\actN1\obj\Debug\net8.0\refint\actN1.dll
+C:\xampp\htdocs\Proyectos\vs.net\actN1\obj\Debug\net8.0\actN1.pdb
+C:\xampp\htdocs\Proyectos\vs.net\actN1\obj\Debug\net8.0\actN1.genruntimeconfig.cache
+C:\xampp\htdocs\Proyectos\vs.net\actN1\obj\Debug\net8.0\ref\actN1.dll
